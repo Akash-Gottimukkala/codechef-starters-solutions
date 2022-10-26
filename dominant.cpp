@@ -52,6 +52,7 @@ int32_t main() {
 		else{
 			cout<<"NO"<<endl;
 		}
+		cout<<"Output"<<endl;
 
 		
 
